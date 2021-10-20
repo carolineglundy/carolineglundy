@@ -10,7 +10,7 @@ code in my spare time. I fell inlove with the coding process and invested in mys
 
 ✨My coding super-power is that I have a knack for seeing future potential errors while writing code. What's yours?✨
 
-Feel free to reach out to me!
+Reach out and let me know your super-power!
 
 LinkedIn: https://www.linkedin.com/in/carolinelundy/ 
 
