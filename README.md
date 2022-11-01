@@ -4,7 +4,7 @@ My favorite things in life are coding, my dog Benji, hiking, and playing Mario K
 
 Currently I am working as a Fullstack Software Engineer growing my skills in Test-Driven Development, Object-Oriented Programming, and Cloud Development. 
 
-Before working at Vizient, I attended A 14-week Java coding bootcamp to learn how to develop dynamic web-based software systems using the Java programming language.  
+In preparation for my coding career, I attended A 14-week Java coding bootcamp to learn how to develop dynamic web-based software systems using the Java programming language.  
 
 My previous career was a Customer Care Representative where I advocated for client success and collaborated with our tech team to solve complications. 
 While I loved adminstering excellent customer service to my clients, I found myself curious about the magic behind each application and started learning to
