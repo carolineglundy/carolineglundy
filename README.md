@@ -2,7 +2,7 @@
 
 My favorite things in life are coding, my dog Benji, hiking, and playing Mario Kart. 
 
-Currently I am working as a Fullstack Software Enginner growing my skills in Test-Driven Development, Object-Oriented Programming, and cloud development. 
+Currently I am working as a Fullstack Software Engineer growing my skills in Test-Driven Development, Object-Oriented Programming, and Cloud Development. 
 
 Before working at Vizient, I attended A 14-week Java coding bootcamp to learn how to develop dynamic web-based software systems using the Java programming language.  
 
